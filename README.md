@@ -1,3 +1,7 @@
+#AntenBulucu
+
+Windows tool for discovering MD link antenna IP addresses and automatically configuring the PC network interface.
+
 # Anten Bulucu - Indir
 
 MD (link) antenlerinin (Radwin, InfiNet, Repeatit vb.) IP adresini bulan,
