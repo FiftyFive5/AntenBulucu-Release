@@ -117,6 +117,18 @@ DEFAULT_BLOCKS = """# Her satira bir blok. Desteklenen formatlar:
 10.70.76.0/24
 10.10.100.0/24
 10.10.101.0/24
+
+# Marka fabrika (default) yonetim IP'leri - cihaz sifirlanmis/ilk kurulumsa:
+# Radwin (2000/5000/6000 serisi)
+192.168.0.1
+# InfiNet (InfiLINK/InfiMAN 2x2)
+10.10.11.55
+# Cambium (ePMP/PTP serisi)
+169.254.1.1
+# Ceragon (FibeAir IP-10/IP-20) - DOGRULA, kesin degil
+192.168.1.1
+# Repeatit - DOGRULA, kesin degil
+192.168.1.1
 """
 
 # Kendi kesfettigin MAC on-eklerini buraya ekleyebilirsin (dosyadan da duzenlenir)
