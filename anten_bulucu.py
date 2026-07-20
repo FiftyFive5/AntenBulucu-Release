@@ -109,7 +109,14 @@ DEFAULT_BLOCKS = """# Her satira bir blok. Desteklenen formatlar:
 # 192.168.1.5            (tek IP)
 # '#' ile baslayan satirlar yorumdur.
 # Kendi ag bloklarinizi buraya ekleyin.
-192.168.1.0/24
+10.70.71.0/24
+10.70.72.0/24
+10.70.73.0/24
+10.70.74.0/24
+10.70.75.0/24
+10.70.76.0/24
+10.10.100.0/24
+10.10.101.0/24
 """
 
 # Kendi kesfettigin MAC on-eklerini buraya ekleyebilirsin (dosyadan da duzenlenir)
